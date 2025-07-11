@@ -75,30 +75,7 @@ parametro1 = os.path.join(pasta_fotos, "parametro1.png")
 
 dados = {
     "data": [
-        {
-            "cod_empresa":"0090",
-            "nome_empresa": "CRECHE ESCOLA ESPACO VIDA",
-            "local_arquivo": r"C:\Users\fisca\Music\Teste",
-            "tipo_guia": "Mensal",
-            "periodo": "06/2025",
-            "tipo_debito": "FGTS e Consignado"
-        },
-        {
-            "cod_empresa":"9112",
-            "nome_empresa": "BABOLIM SERVICOS",
-            "local_arquivo": r"C:\Users\fisca\Music\Teste",
-            "tipo_guia": "Mensal",
-            "periodo": "06/2025",
-            "tipo_debito": "Somente FGTS"
-        },
-                {
-            "cod_empresa":"0008",
-            "nome_empresa": "AGF MEDICAL",
-            "local_arquivo": r"C:\Users\fisca\Music\Teste",
-            "tipo_guia": "Mensal",
-            "periodo": "06/2025",
-            "tipo_debito": "Somente Consignado"
-        }
+
     ]
 }
 
